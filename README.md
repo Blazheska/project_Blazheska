@@ -55,6 +55,7 @@ add_edge('B', 'C', graph=graph)}
 
 ссылка на код: [тут] https://colab.research.google.com/drive/1HdDvlMzFbS6w6YtEXIFv24clF_OnSpqK#scrollTo=7sNhJeGJRbPd
 
+![здесь будет картинка]()
 
 ### Анализ результатов ###
 
