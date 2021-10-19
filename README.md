@@ -38,11 +38,11 @@ add_edge('B', 'C', graph=graph)}
                            ("B", "C", 15))]}
 ```
 
-Наконец, визуализируем граф при помощи функции:
+Наконец, визуализируем граф:
 ```
 {nx.draw(graph, with_labels=True)}
 ```
-![здесь будет картинка](Без названия.png)
+![здесь будет картинка](https://github.com/Blazheska/project_Blazheska/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png?raw=true)
 
 
 
@@ -59,25 +59,3 @@ add_edge('B', 'C', graph=graph)}
 ### Анализ результатов ###
 
 
-
-### уровень 3 ###
-
-~~зачеркнутыц текст
-
-**жираный текст**
-
-*курсив*
-
-1. Применение в задачах культурологии: .....
-2. Пример работы: (вставить код красиво)
-3. Ссылка на код, мы применили библиотеку для нашей задачи.
-4. Анализ результатов - выводы 
-
-
-```
-{python}
-```
-
-ссылка на код: [тут] https://colab.research.google.com/drive/1JM-4JgTAgceqUiQHPP4tPDbcoecYUFLD?usp=sharing
-
-![здесь будет картинка](https://vtbrussia.ru/local/templates/picasso/css/images/share/picasso-share-cubism.jpg)
