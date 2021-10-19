@@ -53,9 +53,9 @@ add_edge('B', 'C', graph=graph)}
 1. Визуализация расстояния между наиболее значимыми достопримечательностями Петербурга в пеших прогулках.
 2. Поиск кратчайшего пути от г.Чехов до г.Москва.
 
-ссылка на код: [тут] https://colab.research.google.com/drive/1HdDvlMzFbS6w6YtEXIFv24clF_OnSpqK#scrollTo=7sNhJeGJRbPd
-
 ![здесь будет картинка](https://github.com/Blazheska/project_Blazheska/blob/main/%D0%93%D1%80%D0%B0%D1%84%20%D0%9F%D0%B8%D1%82%D0%B5%D1%80.png?raw=true)
+
+ссылка на код: [тут] https://colab.research.google.com/drive/1HdDvlMzFbS6w6YtEXIFv24clF_OnSpqK#scrollTo=7sNhJeGJRbPd
 
 ### Анализ результатов ###
 
