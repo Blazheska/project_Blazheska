@@ -42,7 +42,9 @@ add_edge('B', 'C', graph=graph)}
 ```
 {nx.draw(graph, with_labels=True)}
 ```
-![здесь будет картинка](
+![здесь будет картинка](Без названия.png)
+
+
 
 ссылка на код: [тут] https://colab.research.google.com/drive/1RVPTesIBkfE_Ezd9AE__gIfFHoI-cgyk
 
