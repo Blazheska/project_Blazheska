@@ -42,8 +42,17 @@ add_edge('B', 'C', graph=graph)}
 ```
 {nx.draw(graph, with_labels=True)}
 ```
-![здесь будет картинка](
+ссылка на код: [тут] https://colab.research.google.com/drive/1RVPTesIBkfE_Ezd9AE__gIfFHoI-cgyk
 
+
+## Применение библиотеки для решения нашей задачи: ##
+1. Визуализация расстояния между наиболее значимыми достопримечательностями Петербурга в пеших прогулках.
+2. Поиск кратчайшего пути от г.Чехов до г.Москва.
+
+ссылка на код: [тут] https://colab.research.google.com/drive/1HdDvlMzFbS6w6YtEXIFv24clF_OnSpqK#scrollTo=7sNhJeGJRbPd
+
+
+### Анализ результатов ###
 
 
 ### уровень 3 ###
