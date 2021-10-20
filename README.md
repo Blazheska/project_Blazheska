@@ -77,6 +77,7 @@ add_edge('C', 'D', graph=graph)}
 {G=nx.MultiDiGraph()}
 ```
 
+![здесь будет картинка](https://github.com/Blazheska/project_Blazheska/blob/main/%D0%9D%D0%BE%D0%BC%D0%B5%D1%80%204.png?raw=true)
 
 ## Применение библиотеки для решения нашей задачи: ##
 1. Визуализация расстояния между наиболее значимыми достопримечательностями Петербурга в пеших прогулках.
