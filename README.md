@@ -47,8 +47,8 @@ add_edge('C', 'D', graph=graph)}
 ```
 {nx.draw(graph, with_labels=True)}
 ```
-![здесь будет картинка](https://github.com/Blazheska/project_Blazheska/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png?raw=true)
 
+![здесь будет картинка](https://github.com/Blazheska/project_Blazheska/blob/main/%D0%9D%D0%BE%D0%BC%D0%B5%D1%80%203.png?raw=true)
 
 ссылка на код: [тут] https://colab.research.google.com/drive/1RVPTesIBkfE_Ezd9AE__gIfFHoI-cgyk
 
